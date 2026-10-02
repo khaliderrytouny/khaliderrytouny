@@ -1,112 +1,100 @@
 <!-- ========================================================= -->
-<!--                       ANIMATED HEADER                      -->
+<!--                     DARK NEON HEADER                      -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111827,100:00E5FF&height=220&section=header&text=Khalid%20Errytouny&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:050A14,65:071A2B,100:00E5FF&height=240&section=header&text=Khalid%20Errytouny&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"
     width="100%"
   />
 </p>
 
-<!-- ========================================================= -->
-<!--                         TYPING                             -->
-<!-- ========================================================= -->
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+%26+AI+Enthusiast+%F0%9F%A4%96;React+%7C+Node.js+%7C+Laravel;Building+Ideas+Into+Real+Applications+%F0%9F%9A%80;Always+Learning.+Always+Building.+%E2%9A%A1"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;Web+%26+AI+Enthusiast+%F0%9F%A4%96;React+%7C+Node.js+%7C+Laravel;Cybersecurity+%26+Artificial+Intelligence;Building+Ideas+Into+Real+Applications+%E2%9A%A1"
   />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00E5FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FOCUS-WEB%20%7C%20AI%20%7C%20CYBER-7C3AED?style=for-the-badge&labelColor=000000" />
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                      PROFILE VIEWS                        -->
+<!--                        ABOUT ME                           -->
 <!-- ========================================================= -->
+
+# 🖥️ About Me
+
+```javascript
+const khalid = {
+    role: "Full Stack Developer",
+
+    focus: [
+        "Web Development",
+        "Artificial Intelligence"
+  
+    ],
+
+    frontend: [
+        "JavaScript",
+        "React",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express",
+        "Laravel",
+        "Django"
+    ],
+
+    databases: [
+        "MySQL",
+        "MongoDB",
+        "SQLite",
+        "Firebase"
+    ],
+
+    currentlyLearning: [
+        "Artificial Intelligence"
+    
+    ],
+
+    mindset: "Build. Learn. Improve. ⚡"
+};
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=khaliderrytouny&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"
-  />
+
+<img src="https://img.shields.io/badge/FULL%20STACK-00E5FF?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-7C3AED?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&labelColor=000000" />
+
 </p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         ABOUT ME                          -->
-<!-- ========================================================= -->
-
-# 👨‍💻 About Me
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=800&color=7C3AED&center=true&vCenter=true&width=800&height=45&lines=%3E+Welcome+to+my+GitHub+profile+%F0%9F%91%8B;%3E+I+love+building+things+with+code+%F0%9F%92%BB;%3E+Always+learning+something+new+%F0%9F%A7%A0"
-  />
-</p>
-
-```yaml
-name: Khalid Errytouny
-role: Full Stack Developer
-
-focus:
-  - Web Development
-  - Artificial Intelligence
-  - Software Engineering
-
-currently_working_on:
-  - Full Stack Applications
-  - Web Projects
-  - AI Projects
-
-currently_learning:
-  - Artificial Intelligence
-  - Cybersecurity
-  - Advanced Software Architecture
-
-open_to:
-  - Web Projects
-  - AI Projects
-  - Open Source
-  - Collaboration
-
-goal:
-  - Build useful and scalable applications
-
-🚀 What I Do
-
-💻 Build modern web applications
-⚛️ Create interactive React interfaces
-🛠️ Develop scalable backend APIs
-🗄️ Design and work with databases
-🤖 Explore Artificial Intelligence
-🚀 Turn ideas into real-world products
 
 🌐 Connect With Me
-
 <p align="center">
 
 <a href="https://instagram.com/errytouny">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-00E5FF?style=for-the-badge&logo=instagram&logoColor=00E5FF&labelColor=000000" />
 </a>
 
 <a href="https://linkedin.com/in/khaliderrytouny">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=7C3AED&labelColor=000000" />
 </a>
 
 <a href="mailto:Khalidrytouny2004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/khaliderrytouny">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=000000" />
 </a>
 
 </p>
 
 ⚡ Tech Stack
-
-🧠 Languages
+💻 Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,python,html,css" />
 </p>
@@ -116,7 +104,7 @@ goal:
   <img src="https://skillicons.dev/icons?i=react,tailwind,jquery" />
 </p>
 
-🛠️ Backend
+⚙️ Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,django" />
 </p>
@@ -128,52 +116,81 @@ goal:
 
 ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vercel,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=docker,github,gitlab,git,vercel,cloudflare" />
 </p>
 
-🔧 Tools
+🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=npm,postman,jira,figma,wordpress,apache" />
+  <img src="https://skillicons.dev/icons?i=npm,postman,jira,figma,canva,wordpress,apache" />
 </p>
 
-📊 GitHub Analytics
-<p align="center">
-
-  <img
-    height="180"
-    src="https://github-readme-stats.shion.dev/api?username=khaliderrytouny&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180"
-    src="https://streak-stats.demolab.com/?user=khaliderrytouny&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-
+🚀 Current Focus
 <p align="center">
 
-  <img
-    height="180"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=khaliderrytouny&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"
-  />
+<img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-00E5FF?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge&labelColor=000000" />
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-00E5FF?style=for-the-badge&labelColor=000000" />
+
 </p>
 
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+🌐 WEB
+Full Stack Development
+React
+Node.js
+Express
+Laravel
+REST APIs
+</td>
+
+<td width="33%" align="center">
+
+🤖 AI
+Artificial Intelligence
+AI Applications
+Automation
+AI Agents
+Intelligent APIs
+</td>
+
+
+</tr>
+</table>
+
+📊 GitHub Statistics
+<p align="center">
+
+<img
+src="https://github-readme-stats.shion.dev/api?username=khaliderrytouny&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00E5FF&icon_color=7C3AED&text_color=FFFFFF&bg_color=00000000"
+height="180"
+/>
+<img
+src="https://streak-stats.demolab.com/?user=khaliderrytouny&theme=transparent&hide_border=true&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF&sideLabels=7C3AED&dates=777777&sideNums=FFFFFF"
+height="180"
+/>
+</p>
+
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=khaliderrytouny&theme=transparent&hide_border=true&layout=compact&langs_count=8&title_color=00E5FF&text_color=FFFFFF&bg_color=00000000"
+height="180"
+/>
+</p>
 
 📈 Contribution Activity
 <p align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=khaliderrytouny&bg_color=0D1117&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-/>
-</p>
-
-🐍 Contribution Snake
-<p align="center">
-
-<img
-  src="https://raw.githubusercontent.com/khaliderrytouny/khaliderrytouny/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
+src="https://github-readme-activity-graph.vercel.app/graph?username=khaliderrytouny&bg_color=000000&color=00E5FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true"
+width="100%"
 />
 </p>
 
@@ -181,31 +198,35 @@ goal:
 <p align="center">
 
 <img
-  src="https://github-profile-trophy.vercel.app/?username=khaliderrytouny&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1"
+src="https://github-profile-trophy.vercel.app/?username=khaliderrytouny&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
+width="100%"
 />
 </p>
 
-💡 Developer Mindset
+🐍 Contribution Snake
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=850&height=50&lines=Code+is+not+just+about+writing...;It's+about+solving+problems.;Build+%E2%86%92+Learn+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%94%A5"
+src="https://raw.githubusercontent.com/khaliderrytouny/khaliderrytouny/output/github-contribution-grid-snake-dark.svg"
+width="100%"
+alt="GitHub Contribution Snake"
 />
 </p>
 
-✍️ Random Developer Quote
+💡 Developer Quote
 <p align="center">
 
 <img
-  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"
+src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+width="80%"
 />
 </p>
 
-🚀 Let's Build Something Amazing
+👀 Profile Views
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=50&lines=Have+an+idea%3F+Let's+build+it+%F0%9F%9A%80;Have+a+project%3F+Let's+collaborate+%F0%9F%A4%9D;Have+a+problem%3F+Let's+solve+it+%F0%9F%92%A1"
+src="https://komarev.com/ghpvc/?username=khaliderrytouny&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS&labelColor=000000"
 />
 </p>
 
@@ -215,13 +236,21 @@ goal:
 
 <p align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:050505&height=130&section=footer&animation=fadeIn"
-    width="100%"
-  />
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,45:071A2B,75:050A14,100:000000&height=130&section=footer"
+width="100%"
+/>
 </p>
 
+<h3 align="center">
+
+⚡ BUILD   •  
+🧠 LEARN   •  
+🚀 CREATE   •  
+🔐 SECURE
+</h3>
+
 <p align="center">
-  <b>⚡ BUILD • LEARN • CREATE • REPEAT ⚡</b>
+  <b>「 Code the future. 」</b>
 </p>
 ```
