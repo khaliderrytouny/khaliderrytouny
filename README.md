@@ -44,7 +44,7 @@ I'm currently building my skills across modern web development, backend systems,
 ### Quran App
 A React application using the **AlQuran.cloud API**.
 
-### Sakhfa
+### Station Akhwain
 A Laravel application using **MySQL** and business-oriented application workflows.
 
 ## Education
